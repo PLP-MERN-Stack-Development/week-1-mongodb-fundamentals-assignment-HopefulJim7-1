@@ -1,4 +1,4 @@
-Here’s a **README.md** file summarizing everything we’ve done, from initializing **pnpm** to crafting **MongoDB queries** for your book collection—complete with ✨ emojis for style!
+Here’s a **README.md** file summarizing everything I have done, from initializing **pnpm** to crafting **MongoDB queries** for my book collection—complete with ✨ emojis for style!
 
 ```markdown
 # 📚 Book Collection & PNPM Setup 🚀
